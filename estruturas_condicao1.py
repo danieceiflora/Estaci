@@ -3,6 +3,6 @@ temperatura = 31
 if temperatura < 30:
     print('A Temperatura está amena')
 else:
-   print('HOje está fazendo calor')
+   print('Hoje está fazendo calor')
 #trabalho faculdade 123
 
