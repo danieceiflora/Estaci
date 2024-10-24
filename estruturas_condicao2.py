@@ -7,3 +7,4 @@ elif tempoExperiencia <5 and tempoExperiencia >2:
     print('Nível de conhecimento pleno')
 else:
     print('Nível do conhecimento Senior')
+#trabalho faculdade
