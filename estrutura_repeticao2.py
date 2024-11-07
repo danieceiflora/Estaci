@@ -1,0 +1,1 @@
+texto = 'Olá, laço for'
